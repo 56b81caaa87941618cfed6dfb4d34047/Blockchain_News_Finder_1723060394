@@ -3,13 +3,13 @@
 - To the right: There is an image relevant to the app.
 */
 Vue.component("simple_hero_component_1723060395", {
-    <nav class="bg-white dark:bg-gray-900 shadow-md">
+    <nav class="bg-white shadow-md">
         <div class="max-w-screen-xl mx-auto px-4 py-2 flex justify-between items-center">
-            <a href="#" class="text-2xl font-bold text-gray-900 dark:text-white">Brand</a>
+            <a href="#" class="text-2xl font-bold text-black">Brand</a>
             <div class="space-x-4">
-                <a href="#" class="text-gray-900 dark:text-white hover:text-blue-700">Home</a>
-                <a href="#" class="text-gray-900 dark:text-white hover:text-blue-700">About</a>
-                <a href="#" class="text-gray-900 dark:text-white hover:text-blue-700">Contact</a>
+                <a href="#" class="text-black hover:text-purple-700">Home</a>
+                <a href="#" class="text-black hover:text-purple-700">About</a>
+                <a href="#" class="text-black hover:text-purple-700">Contact</a>
             </div>
         </div>
     </nav>

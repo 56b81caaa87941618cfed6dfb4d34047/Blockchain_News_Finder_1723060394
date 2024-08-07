@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where should the navbar be positioned within the app interface?\", \"option1\": \"At the top of the app, fixed as users scroll.\", \"option2\": \"At the bottom of the app, for easier thumb access on mobile devices.\"}, {\"question 2\": \"Do you have a specific theme or color scheme in mind for the navbar to align it with your app's design?\", \"option1\": \"Yes, I want it to match the app's primary color scheme.\", \"option2\": \"No, I'm open to suggestions based on best UI/UX practices.\"}], \"input_token_count\": 265, \"output_token_count\": 130, \"time_taken\": \"0:00:04.659184\"}",
+        "message_id": "guest07082024195625",
+        "timestamp": "07082024195630",
+        "component_file_name": "simple_hero_component_1723060395",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Acknowledged, implementing a navbar with home, about, and contact.",
         "message_id": "guest07082024195625",

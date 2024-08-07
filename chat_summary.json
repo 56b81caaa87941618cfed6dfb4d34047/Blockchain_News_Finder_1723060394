@@ -42,5 +42,11 @@
         "content": "Got it, I'll add a button with \"Hello World\".",
         "timestamp": "07082024195501",
         "message_id": "guest07082024195501"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive blockchain news feed\", \"checked\": true}, {\"feature\": \"Live cryptocurrency price tracker\", \"checked\": false}, {\"feature\": \"User account creation for personalized content\", \"checked\": false}, {\"feature\": \"Dynamic search functionality with filters for blockchain topics\", \"checked\": true}, {\"feature\": \"In-app notifications for breaking blockchain news\", \"checked\": false}, {\"feature\": \"Dark and light mode for user interface\", \"checked\": true}], \"input_token_count\": 264, \"output_token_count\": 109, \"time_taken\": \"0:00:03.591372\"}",
+        "timestamp": "07082024195505",
+        "message_id": "guest07082024195501"
     }
 ]

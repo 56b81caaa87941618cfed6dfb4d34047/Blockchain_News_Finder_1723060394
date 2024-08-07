@@ -1,64 +1,98 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1723060395",
+        "role": "chat_acknowledge",
+        "content": "Thanks for the suggestion, implementing a \"Hello World\" button.",
+        "message_id": "guest07082024195604",
+        "timestamp": "07082024195605",
         "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Got it, adding a button with text \"hello world\".",
-        "timestamp": "07082024195338",
-        "message_id": "guest07082024195338"
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add a button that says hello world",
-        "timestamp": "07082024195338",
-        "message_id": "guest07082024195338"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned within the app's interface?\", \"option1\": \"In the main navigation menu\", \"option2\": \"At the bottom of the home screen\"}, {\"question 2\": \"What action should be triggered when the 'Hello World' button is pressed?\", \"option1\": \"Display a popup message saying 'Hello World'\", \"option2\": \"Navigate to a new screen with detailed information\"}], \"input_token_count\": 261, \"output_token_count\": 106, \"time_taken\": \"0:00:04.154811\"}",
-        "timestamp": "07082024195343",
-        "message_id": "guest07082024195338"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Latest Blockchain News' section to keep users updated with new information\", \"checked\": true}, {\"feature\": \"Integrate a 'Blockchain Glossary' button for easy access to terminologies\", \"checked\": false}, {\"feature\": \"Implement 'Live Blockchain Stats' displaying current blockchain operations and statistics\", \"checked\": false}, {\"feature\": \"Include a 'Discover Blockchains' feature to explore different blockchain technologies\", \"checked\": true}, {\"feature\": \"Add a 'Feedback' button for users to send their thoughts or report issues\", \"checked\": false}, {\"feature\": \"Introduce a 'Favorites' feature for users to save and quickly access preferred blockchain information\", \"checked\": true}], \"input_token_count\": 215, \"output_token_count\": 148, \"time_taken\": \"0:00:05.477400\"}",
-        "timestamp": "07082024195345",
-        "message_id": "guest07082024195338"
-    },
-    {
-        "role": "user",
-        "content": "add a button that says hello world",
-        "timestamp": "07082024195501",
-        "message_id": "guest07082024195501"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Got it, I'll add a button with \"Hello World\".",
-        "timestamp": "07082024195501",
-        "message_id": "guest07082024195501"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive blockchain news feed\", \"checked\": true}, {\"feature\": \"Live cryptocurrency price tracker\", \"checked\": false}, {\"feature\": \"User account creation for personalized content\", \"checked\": false}, {\"feature\": \"Dynamic search functionality with filters for blockchain topics\", \"checked\": true}, {\"feature\": \"In-app notifications for breaking blockchain news\", \"checked\": false}, {\"feature\": \"Dark and light mode for user interface\", \"checked\": true}], \"input_token_count\": 264, \"output_token_count\": 109, \"time_taken\": \"0:00:03.591372\"}",
-        "timestamp": "07082024195505",
-        "message_id": "guest07082024195501"
+        "message_id": "guest07082024195604",
+        "timestamp": "07082024195604",
+        "component_file_name": "simple_cta_component_1723060395",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'hello world' button to be positioned on the app interface?\", \"option1\": \"In the center of the main screen\", \"option2\": \"At the bottom of the main screen\"}, {\"question 2\": \"Do you have any specific color scheme or design preferences for the button?\", \"option1\": \"Yes, it should match the app's existing color scheme\", \"option2\": \"No specific preferences, just make it stand out\"}], \"input_token_count\": 310, \"output_token_count\": 110, \"time_taken\": \"0:00:07.838675\"}",
+        "message_id": "guest07082024195501",
         "timestamp": "07082024195509",
-        "message_id": "guest07082024195501"
+        "component_file_name": "simple_footer_component_1723060395",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive blockchain news feed\", \"checked\": true}, {\"feature\": \"Live cryptocurrency price tracker\", \"checked\": false}, {\"feature\": \"User account creation for personalized content\", \"checked\": false}, {\"feature\": \"Dynamic search functionality with filters for blockchain topics\", \"checked\": true}, {\"feature\": \"In-app notifications for breaking blockchain news\", \"checked\": false}, {\"feature\": \"Dark and light mode for user interface\", \"checked\": true}], \"input_token_count\": 264, \"output_token_count\": 109, \"time_taken\": \"0:00:03.591372\"}",
+        "message_id": "guest07082024195501",
+        "timestamp": "07082024195505",
+        "component_file_name": "simple_footer_component_1723060395",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, I'll add a button with \"Hello World\".",
+        "message_id": "guest07082024195501",
+        "timestamp": "07082024195501",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add a button that says hello world",
-        "timestamp": "07082024195604",
+        "message_id": "guest07082024195501",
+        "timestamp": "07082024195501",
+        "component_file_name": "simple_footer_component_1723060395",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Latest Blockchain News' section to keep users updated with new information\", \"checked\": true}, {\"feature\": \"Integrate a 'Blockchain Glossary' button for easy access to terminologies\", \"checked\": false}, {\"feature\": \"Implement 'Live Blockchain Stats' displaying current blockchain operations and statistics\", \"checked\": false}, {\"feature\": \"Include a 'Discover Blockchains' feature to explore different blockchain technologies\", \"checked\": true}, {\"feature\": \"Add a 'Feedback' button for users to send their thoughts or report issues\", \"checked\": false}, {\"feature\": \"Introduce a 'Favorites' feature for users to save and quickly access preferred blockchain information\", \"checked\": true}], \"input_token_count\": 215, \"output_token_count\": 148, \"time_taken\": \"0:00:05.477400\"}",
+        "message_id": "guest07082024195338",
+        "timestamp": "07082024195345",
+        "component_file_name": "simple_header_component_1723060395",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned within the app's interface?\", \"option1\": \"In the main navigation menu\", \"option2\": \"At the bottom of the home screen\"}, {\"question 2\": \"What action should be triggered when the 'Hello World' button is pressed?\", \"option1\": \"Display a popup message saying 'Hello World'\", \"option2\": \"Navigate to a new screen with detailed information\"}], \"input_token_count\": 261, \"output_token_count\": 106, \"time_taken\": \"0:00:04.154811\"}",
+        "message_id": "guest07082024195338",
+        "timestamp": "07082024195343",
+        "component_file_name": "simple_header_component_1723060395",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "message_id": "guest07082024195338",
+        "timestamp": "07082024195338",
+        "component_file_name": "simple_header_component_1723060395",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, adding a button with text \"hello world\".",
+        "message_id": "guest07082024195338",
+        "timestamp": "07082024195338",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
+        "timestamp": "07082024195605",
         "message_id": "guest07082024195604"
     }
 ]

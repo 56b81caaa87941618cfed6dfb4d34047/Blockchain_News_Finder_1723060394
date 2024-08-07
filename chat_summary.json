@@ -54,5 +54,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'hello world' button to be positioned on the app interface?\", \"option1\": \"In the center of the main screen\", \"option2\": \"At the bottom of the main screen\"}, {\"question 2\": \"Do you have any specific color scheme or design preferences for the button?\", \"option1\": \"Yes, it should match the app's existing color scheme\", \"option2\": \"No specific preferences, just make it stand out\"}], \"input_token_count\": 310, \"output_token_count\": 110, \"time_taken\": \"0:00:07.838675\"}",
         "timestamp": "07082024195509",
         "message_id": "guest07082024195501"
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "timestamp": "07082024195604",
+        "message_id": "guest07082024195604"
     }
 ]

@@ -20,9 +20,11 @@ Vue.component("simple_footer_component_1723060395", {
                     </div>
                 </div>
 
+
                 <div class="flex justify-center mt-4">
-                    <button class="px-4 py-2 bg-blue-500 text-white rounded shadow">hello world</button>
-            </div>
+                    <button class="px-4 py-2 bg-purple-500 text-white rounded shadow-lg">hello world</button>
+                </div>
+
         </footer> 
     `,
     data() {

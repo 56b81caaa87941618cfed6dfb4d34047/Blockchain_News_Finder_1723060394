@@ -1,5 +1,23 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the 'Hello World' button to have a specific style or theme that matches the existing design aesthetics of the app?\", \"option1\": \"Yes, it should match the app's current design theme.\", \"option2\": \"No, a standard button design is fine.\"}, {\"question 2\": \"Do you want the 'Hello World' button to perform a specific action when clicked?\", \"option1\": \"Yes, it should execute a specific function or action.\", \"option2\": \"No, it's just a placeholder without any function.\"}], \"input_token_count\": 335, \"output_token_count\": 126, \"time_taken\": \"0:00:03.056375\"}",
+        "message_id": "guest07082024195604",
+        "timestamp": "07082024195608",
+        "component_file_name": "simple_cta_component_1723060395",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive blockchain news feed\", \"checked\": true}, {\"feature\": \"Live cryptocurrency price ticker\", \"checked\": false}, {\"feature\": \"User customizable watchlist for favorite blockchain projects\", \"checked\": false}, {\"feature\": \"Real-time blockchain network status indicators\", \"checked\": true}, {\"feature\": \"Blockchain event calendar\", \"checked\": false}, {\"feature\": \"Decentralized application (DApp) directory\", \"checked\": true}], \"input_token_count\": 289, \"output_token_count\": 107, \"time_taken\": \"0:00:02.658572\"}",
+        "message_id": "guest07082024195604",
+        "timestamp": "07082024195607",
+        "component_file_name": "simple_cta_component_1723060395",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Thanks for the suggestion, implementing a \"Hello World\" button.",
         "message_id": "guest07082024195604",
@@ -72,27 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "user",
-        "content": "add a button that says hello world",
-        "message_id": "guest07082024195338",
-        "timestamp": "07082024195338",
-        "component_file_name": "simple_header_component_1723060395",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Got it, adding a button with text \"hello world\".",
-        "message_id": "guest07082024195338",
-        "timestamp": "07082024195338",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "07082024195605",
+        "content": "In a conversation between a user and an AI assistant, the user requested to add a button that says \"hello world.\" The AI acknowledged this request, confirming it would add a button with that text. Subsequently, the AI asked the user for a brief description of the project to gather more context.",
+        "timestamp": "07082024195608",
         "message_id": "guest07082024195604"
     }
 ]

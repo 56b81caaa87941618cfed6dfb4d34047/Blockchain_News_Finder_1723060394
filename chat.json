@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the 'Hello World' button to have a specific style or theme that matches the existing design aesthetics of the app?\", \"option1\": \"Yes, it should match the app's current design theme.\", \"option2\": \"No, a standard button design is fine.\"}, {\"question 2\": \"Do you want the 'Hello World' button to perform a specific action when clicked?\", \"option1\": \"Yes, it should execute a specific function or action.\", \"option2\": \"No, it's just a placeholder without any function.\"}], \"input_token_count\": 335, \"output_token_count\": 126, \"time_taken\": \"0:00:03.056375\"}",
+        "message_id": "guest07082024195604",
+        "timestamp": "07082024195608",
+        "component_file_name": "simple_cta_component_1723060395",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive blockchain news feed\", \"checked\": true}, {\"feature\": \"Live cryptocurrency price ticker\", \"checked\": false}, {\"feature\": \"User customizable watchlist for favorite blockchain projects\", \"checked\": false}, {\"feature\": \"Real-time blockchain network status indicators\", \"checked\": true}, {\"feature\": \"Blockchain event calendar\", \"checked\": false}, {\"feature\": \"Decentralized application (DApp) directory\", \"checked\": true}], \"input_token_count\": 289, \"output_token_count\": 107, \"time_taken\": \"0:00:02.658572\"}",
         "message_id": "guest07082024195604",

@@ -17,7 +17,11 @@ Vue.component("simple_footer_component_1723060395", {
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                         © 2023 BlockchainPulse. Stay informed, stay ahead in the world of blockchain.
                     </div>
+                    </div>
                 </div>
+
+                <div class="flex justify-center mt-4">
+                    <button class="px-4 py-2 bg-blue-500 text-white rounded shadow">hello world</button>
             </div>
         </footer> 
     `,

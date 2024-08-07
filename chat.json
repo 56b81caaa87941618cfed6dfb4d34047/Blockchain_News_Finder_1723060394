@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'hello world' button to be positioned on the app interface?\", \"option1\": \"In the center of the main screen\", \"option2\": \"At the bottom of the main screen\"}, {\"question 2\": \"Do you have any specific color scheme or design preferences for the button?\", \"option1\": \"Yes, it should match the app's existing color scheme\", \"option2\": \"No specific preferences, just make it stand out\"}], \"input_token_count\": 310, \"output_token_count\": 110, \"time_taken\": \"0:00:07.838675\"}",
+        "message_id": "guest07082024195501",
+        "timestamp": "07082024195509",
+        "component_file_name": "simple_footer_component_1723060395",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive blockchain news feed\", \"checked\": true}, {\"feature\": \"Live cryptocurrency price tracker\", \"checked\": false}, {\"feature\": \"User account creation for personalized content\", \"checked\": false}, {\"feature\": \"Dynamic search functionality with filters for blockchain topics\", \"checked\": true}, {\"feature\": \"In-app notifications for breaking blockchain news\", \"checked\": false}, {\"feature\": \"Dark and light mode for user interface\", \"checked\": true}], \"input_token_count\": 264, \"output_token_count\": 109, \"time_taken\": \"0:00:03.591372\"}",
         "message_id": "guest07082024195501",
